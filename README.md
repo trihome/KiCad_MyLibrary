@@ -1,4 +1,5 @@
-# KiCad_MyLib
+# KiCad_MyLibrary
+
 Symbols and footprints for my designed PCB.
 
 myasuが設計したKiCad図面用のシンボルとフットプリントです。
