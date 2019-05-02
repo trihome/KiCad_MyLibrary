@@ -1,0 +1,8 @@
+library/*
+modules/*
+template/*
+!_my_kicad*
+<<<<<<< HEAD
+!SamacSys_Parts*
+=======
+>>>>>>> 87eac96b3238a1945c571a30a3915e6a4c84f6a1

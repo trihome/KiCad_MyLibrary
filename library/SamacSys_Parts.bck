@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FOD814
+D ON SEMICONDUCTOR - FOD814 - OPTOCOUPLER, TRANSISTOR, 5KV, DIP-4
+F http://www.onsemi.com/pub/Collateral/FOD814-D.PDF
+$ENDCMP
+#
+$CMP LT1010CN8PBF
+D Fast 150mA Power Buffer
+$ENDCMP
+#
+$CMP TBD62783APG
+D Gate Drivers DMOS Transistor Array 7-CH, 50V/0.5A
+F http://www.mouser.com/ds/2/408/TBD62783APG_datasheet_en_20160511-775715.pdf
+$ENDCMP
+#
+#End Doc Library
