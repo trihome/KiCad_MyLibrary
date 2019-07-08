@@ -4,6 +4,10 @@ $CMP AE-PCA9306
 D I2C-bus and SMBus voltage-level translator
 $ENDCMP
 #
+$CMP M51957
+D VOLTAGE DETECTING SYSTEM RESETTING IC
+$ENDCMP
+#
 $CMP ST-005-G
 D ３．５ｍｍ小型ステレオミニジャック　基板取付用
 $ENDCMP
